@@ -66,7 +66,7 @@ body {
     letter-spacing: 1px;
     display: flex; /* Supaya tulisan & ikon sejajar */
     align-items: center;
-    gap: 10px; /* Jarak antara tulisan "MENU" dan ikon */
+    gap: 5px; /* Jarak antara tulisan "MENU" dan ikon */
     transition: background-color 0.3s ease-in-out, transform 0.2s;
     border: none;
 }
@@ -199,6 +199,7 @@ section {
 
 .why-us-box p {
     max-width: 60%; /* Batasi lebar agar teks turun ke baris baru */
+    padding: 20px;
     margin: 0 auto; /* Tengahkan teks */
     line-height: 1.8; /* Tambahkan spasi antar baris */
     word-spacing: 2px; /* Buat jarak antar kata lebih renggang */
