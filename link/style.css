@@ -56,7 +56,7 @@ body {
 }
 
 .nav-btn {
-    font-size: 1.4rem; /* Ukuran lebih besar */
+    font-size: 1rem; /* Ukuran lebih besar */
     font-weight: bold;
     padding: 12px 30px;
     background-color: #2A2D43;
@@ -66,7 +66,7 @@ body {
     letter-spacing: 1px;
     display: flex; /* Supaya tulisan & ikon sejajar */
     align-items: center;
-    gap: 5px; /* Jarak antara tulisan "MENU" dan ikon */
+    gap: 3px; /* Jarak antara tulisan "MENU" dan ikon */
     transition: background-color 0.3s ease-in-out, transform 0.2s;
     border: none;
 }
